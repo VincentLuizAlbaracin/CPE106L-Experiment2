@@ -1,0 +1,35 @@
+{
+    "school": "Sample University",
+    "students": [
+        {
+            "id": "2021001",
+            "name": "Juan Dela Cruz",
+            "course": "BSCpE",
+            "grades": [
+                92,
+                90,
+                95
+            ]
+        },
+        {
+            "id": "2021002",
+            "name": "Maria Santos",
+            "course": "BSCpE",
+            "grades": [
+                88,
+                85,
+                91
+            ]
+        },
+        {
+            "id": "2021003",
+            "name": "Jose Reyes",
+            "course": "BSEE",
+            "grades": [
+                79,
+                82,
+                77
+            ]
+        }
+    ]
+}

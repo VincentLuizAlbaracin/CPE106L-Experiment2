@@ -1,0 +1,6 @@
+ID,Name,Course
+2021001,Juan Dela Cruz,BSCpE
+2021002,Maria Santos,BSCpE
+2021003,Jose Reyes,BSEE
+2021004,Ana Garcia,BSCpE
+2021005,Pedro Bautista,BSECE
