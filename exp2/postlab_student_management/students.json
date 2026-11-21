@@ -1,0 +1,22 @@
+[
+    {
+        "student_id": "2021001",
+        "name": "Juan Dela Cruz",
+        "course": "BSCpE",
+        "grades": [
+            92.0,
+            88.0,
+            95.0
+        ]
+    },
+    {
+        "student_id": "2021002",
+        "name": "Maria Santos",
+        "course": "BSCpE",
+        "grades": [
+            85.0,
+            90.0,
+            77.0
+        ]
+    }
+]
